@@ -1,4 +1,4 @@
 # Simon Says verkefni
 
-![Mynd af verkefninu](/Simon Says/mynd-af-verkefninu.jpg)
-![Myndband af verkefninu](/Simon Says/syningarmyndband.mp4)
+![Mynd af verkefninu](/SimonSays/mynd-af-verkefninu.jpg)
+![Myndband af verkefninu](/SimonSays/syningarmyndband.mp4)
