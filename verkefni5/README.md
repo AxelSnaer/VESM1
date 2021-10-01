@@ -36,9 +36,9 @@
 
 ### 5.4
 
-[Mynd af stepper mótor tengdann](/verkefni5/stepper1.jpg)
+![Mynd af stepper mótor tengdann](/verkefni5/stepper1.jpg)
 
-[Mynd af tengingum fyrir stepper mótorinn](/verkefni5/stepper2.jpg)
+![Mynd af tengingum fyrir stepper mótorinn](/verkefni5/stepper2.jpg)
 
 ### 5.5
 
