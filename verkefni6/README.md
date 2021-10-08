@@ -16,12 +16,12 @@ Vegna flækingum með verkefninu, gat það ekki labbað í endanum. Mótorplata
 
 ### [Myndband af pödduni](/verkefni6/video.mp4)
 
-[Mynd framan](/verkefni6/front.jpg)
+![Mynd framan](/verkefni6/front.jpg)
 
-[Mynd frá hægri hlið](/verkefni6/rightside.jpg)
+![Mynd frá hægri hlið](/verkefni6/rightside.jpg)
 
-[Mynd frá vinstri hlið](/verkefni6/leftside.jpg)
+![Mynd frá vinstri hlið](/verkefni6/leftside.jpg)
 
-[Mynd ofaná](/verkefni6/topdown.jpg)
+![Mynd ofaná](/verkefni6/topdown.jpg)
 
-[Mynd undir](/verkefni6/underside.jpg)
+![Mynd undir](/verkefni6/underside.jpg)
