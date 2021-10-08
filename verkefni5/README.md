@@ -12,7 +12,13 @@
 
 ### 5.2
 
-### <span style="color:red">Óklárað</span>
+**1. Settu upp og keyrðu ```sweep``` kóðann á brauðbretti Sweep leiðbeiningar**
+
+[Video af sweeb](/verkefni5/servo.mp4)
+
+**2. Settu upp og keyrðu ```Knob``` kóðann á brauðbretti Controlling Servo with a Potentiometer**
+
+[Video af knob](/verkefni5/servo_potentiometer.mp4)
 
 ### 5.3
 
@@ -30,7 +36,9 @@
 
 ### 5.4
 
-### <span style="color:red">Óklárað</span>
+![Mynd af stepper mótor tengdann](/verkefni5/stepper1.jpg)
+
+![Mynd af tengingum fyrir stepper mótorinn](/verkefni5/stepper2.jpg)
 
 ### 5.5
 
@@ -74,7 +82,11 @@
 
 ### 5.9
 
-### <span style="color:red">Óklárað</span>
+**Hve þungu lóði lyftir [þetta](https://raw.githubusercontent.com/VESM1VS/Efni/main/Myndir/pulley.jpg) talíukerfi?**
+
+```MA = 4```
+
+```5kg × 4 = 20kg```
 
 ### 5.10
 
